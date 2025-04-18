@@ -5,20 +5,26 @@ Using NLP to automate resume screening by extracting relevant skills from resume
 This project is a simple Resume Screening Tool built using Python and Natural Language Processing (NLP). It compares resumes against a given job description to evaluate the suitability of candidates based on skill keyword matching.
 
 🚀 Features
--> Preprocesses text by tokenizing, removing stopwords, and lemmatizing.
--> Extracts relevant skills from resumes.
--> Calculates similarity score between resume skills and job description keywords.
--> Automatically classifies resumes as "Selected" or "Not Selected".
--> Visualizes the selection statistics using a bar chart.
--> Displays results in a clean table using tabulate.
+-> Preprocesses text by tokenizing, removing stopwords, and lemmatizing.                                                                                            
+-> Extracts relevant skills from resumes.                                                                                                                           
+-> Calculates similarity score between resume skills and job description keywords.                                                                                  
+-> Automatically classifies resumes as "Selected" or "Not Selected".                                                                                                
+-> Visualizes the selection statistics using a bar chart.                                                                                                               
+-> Displays results in a clean table using tabulate.                                                                                                                
 
 🛠️ Technologies Used
 -> Python 3
+
 -> NLTK (Natural Language Toolkit)
+
 -> Pandas
+
 -> Matplotlib
+
 -> Seaborn
+
 -> Tabulate
+
 
 Execution Process 
 📄 1. file.txt – Job Description Input
